@@ -1,1 +1,1 @@
-'[{"isappeable":true,"reason":"Was too ugly","steamid":"BOT"},{"isappeable":false,"reason":"Was too ugly (again)","steamid":"BOT2"}]'
+{"BOT2":{"isappeable":true,"reason":"Was too ugly (again)"},"BOT":{"isappeable":true,"reason":"Was too ugly"}}
