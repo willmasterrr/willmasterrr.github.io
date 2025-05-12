@@ -1,1 +1,1 @@
-{"BOT2":{"isappeable":true,"reason":"Was too ugly (again)"},"BOT":{"isappeable":true,"reason":"Was too ugly"}}
+{"76561198285457420":{"isappeable":true,"reason":"Blackmail"},"76561199002950105":{"isappeable":true,"reason":"Blackmail"},"76561199502872223":{"isappeable":true,"reason":"Underaged, You may get unbanned after you turn 13+ (With proof this time! Dont try lying)"},"76561199060110497":{"isappeable":true,"reason":"Closet Cheater, No sign of admitting"}}
