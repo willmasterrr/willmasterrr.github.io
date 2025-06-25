@@ -1,0 +1,33 @@
+/* .radial_right1 {
+    filter: brightness(0%) opacity(80%);
+    width: 395px; height: 395px; 
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+} */
+
+/* .beta {
+    text-align: right;
+    color: rgb(218, 116, 48);
+    font-family: Arial;
+    font-size: 12;
+    font-weight: bold;
+    font-style: italic;
+    height: 6;
+    margin-top: -28;
+    margin-right: 12;
+}
+
+.beta2 {
+    text-align: right;
+    color: rgb(218, 116, 48);
+    font-family: Arial;
+    font-size: 12;
+    font-weight: bold;
+    font-style: italic;
+    height: 3;
+    margin-right: 12;
+    margin-top: 0;
+}
+*/

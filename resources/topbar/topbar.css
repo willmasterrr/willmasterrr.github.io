@@ -1,0 +1,49 @@
+@font-face {
+  font-family: font1;
+  src: url("../font/Minecraft.ttf");
+}
+
+.hover {
+  overflow: hidden;
+  background-color: #333;
+  height: 4%;
+} 
+
+.hover .name {
+  font-family: font1;
+  font-size: 100%;
+  color: #ff4800;
+  text-align: right;
+  text-shadow: 1px 2px 0px #000000;
+  margin: 0;
+  margin-top: .6%;
+  margin-right: 2%;
+}
+
+.hover a {
+  float: left;
+  display: block;
+  font-family: font1;
+  font-size: 24px;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+  text-shadow: 1px 1px 2px #000000;
+
+}
+
+.hover a:hover {
+    animation-name: example;
+    animation-duration: 1s;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate;
+}
+
+@keyframes example {
+  0%   { color: #ffffff; }
+  50%  { color: #ff5100; }
+  100% { color: #f2f2f2; }
+}

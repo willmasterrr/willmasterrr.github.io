@@ -1,0 +1,34 @@
+
+.radial_right1 {
+    filter: brightness(0%) opacity(80%);
+    width: 395px; height: 395px; 
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+}
+
+.figure_char {
+    width: 160; height: 240; 
+    position: fixed;
+    bottom: 4;
+    right: 12;
+    z-index: 3;
+}
+
+.bg {
+    width: 100%; height: 100%; 
+    position: fixed;
+    z-index: -1;
+    top: 0%;
+    left: 0%;
+}
+
+.vignette {
+    filter: blur(70px) brightness(0%) opacity(80%);
+    width: 115%; height: 115%; 
+    position: fixed;
+    z-index: -1;
+    top: -10%;
+    left: -10%;
+}
